@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.4+commit.c7e474f2"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"solario.sol": "Address"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"solario.sol": {
+			"keccak256": "0x1076319b5ef394c5b5db6d0181f463859c25dde56da383fc335cdca1c6659c75",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://9029b90def497bc4511246f48a7a097cf896f26f8488d95e1adcccd9857a7cb1",
+				"dweb:/ipfs/Qma1LDb66T8uZmGwf7kmpK8ZasuVZFht3bE27RWYhLgaP3"
+			]
+		}
+	},
+	"version": 1
+}
